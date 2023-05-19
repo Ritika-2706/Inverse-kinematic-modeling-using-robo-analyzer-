@@ -45,7 +45,13 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### SIMULATION 
- 
+RPR ROBOT:
+ ![Output](ss1.png)
+ ![Output](ss3.png)
+ 3R ROBOT:
+ ![Output](ss5.png)
+ ![Output](ss6.png)
+
  
  
  
@@ -54,7 +60,12 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
  
  ### PLOT 
  
- 
+RPR ROBOT:
+![Output](ss9.png)
+![Output](ss12.png)
+3R ROBOT:
+![Output](ss14.png)
+![Output](ss16.png) 
  
  
  
@@ -83,3 +94,4 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### RESULTS :  
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
